@@ -16,7 +16,8 @@ As a junior data analyst on the marketing analyst team at Cyclistic, I conducted
 -Weekday vs. Weekend Usage
 -Bike Return Locations
 
-## Key Findings -Trip Duration
+## Key Findings 
+-Trip Duration
 
 Annual Members: On average, annual members tend to take longer trips, with a mean duration of approximately 30 minutes. This reflects their familiarity and comfort with using bikes for commuting or leisurely activities. Casual Riders: Casual users typically have shorter trips, averaging around 15 minutes. This is indicative of their usage patterns, which often revolve around quick errands or recreational rides.
 
@@ -36,7 +37,8 @@ Annual Members: 75% of their rides occur on weekdays, reinforcing the commuting 
 
 Annual Members: They show a strong preference for returning bikes to docking stations near residential and workplace areas, indicating a more routine and predictable usage pattern. Casual Riders: Their bike return locations are more varied and less predictable, often reflecting spontaneous recreational rides.
 
-## Insights for Marketing Strategy Given these findings, the following recommendations can be made to effectively convert casual riders into annual members:
+## Insights for Marketing Strategy 
+Given these findings, the following recommendations can be made to effectively convert casual riders into annual members:
 
 Targeted Promotions: Develop promotions aimed at casual riders, highlighting the benefits of annual memberships, such as cost savings for frequent users, especially for those who ride multiple times on weekends.
 
